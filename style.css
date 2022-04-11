@@ -1,0 +1,30 @@
+.principal{
+    width: 940px;
+    margin: 0 auto;
+    position:relative;
+    text-align: center;
+}
+
+li{
+   text-transform: uppercase;
+   color:#000000;
+    text-decoration:none;
+    font-weight:bold;
+    background:#d9bded ;
+}
+
+h1{
+    position:relative;
+}
+
+nav li{
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    margin: 0 2%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    width: 30%;
+    border:2px solid #000000;
+    border-radius: 20px;
+}
